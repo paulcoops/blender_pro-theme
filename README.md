@@ -9,4 +9,5 @@ Blender Pro is a Dark Appearance Theme for Blender 2.8
 * Make sure to **save preferences** (hamburger menu)
 
 Required: [Blender 2.8](https://www.blender.org/download/)
+
 Join the [Development Fund](https://fund.blender.org) and support Blender Foundation to work on core Blender development.
