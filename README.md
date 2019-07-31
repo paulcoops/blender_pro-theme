@@ -1,6 +1,6 @@
 # Blender Pro Theme
 Blender Pro is a Dark Appearance Theme for Blender 2.8.
-* [Preview Screenshots](http://paulcoops.com/blender_pro-theme)
+* [Screenshots](http://paulcoops.com/blender_pro-theme)
 * [Download Blender Pro Theme](https://github.com/Thirioart/blender_pro-theme/archive/master.zip)
 
 
