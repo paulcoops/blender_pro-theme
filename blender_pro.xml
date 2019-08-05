@@ -266,16 +266,16 @@
         </wcol_menu_item>
         <wcol_scroll>
           <ThemeWidgetColors
-            outline="#202020"
-            inner="#242424ff"
+            outline="#292929"
+            inner="#000000ff"
             inner_sel="#202020ff"
-            item="#111313ff"
+            item="#363636ff"
             text="#c4c4c4"
             text_sel="#ffffff"
             show_shaded="FALSE"
             shadetop="5"
             shadedown="-5"
-            roundness="0.33"
+            roundness="1"
             >
           </ThemeWidgetColors>
         </wcol_scroll>
