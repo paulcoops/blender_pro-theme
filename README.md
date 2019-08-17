@@ -1,5 +1,5 @@
 # Blender Pro theme
-Blender 2.8. dark-mode
+Blender 2.8 dark-mode.
 * [Screenshots](http://paulcoops.com/blender_pro-theme)
 * [Download](https://github.com/Thirioart/blender_pro-theme/archive/master.zip)
 
