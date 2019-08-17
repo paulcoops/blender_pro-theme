@@ -1,5 +1,5 @@
 # Blender Pro theme
-Dark appearance for Blender 2.8.
+Blender 2.8. Dark-mode
 * [Screenshots](http://paulcoops.com/blender_pro-theme)
 * [Download](https://github.com/Thirioart/blender_pro-theme/archive/master.zip)
 
