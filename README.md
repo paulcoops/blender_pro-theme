@@ -1,5 +1,5 @@
 # Blender Pro theme
-Dark appearance for Blender 2.8.
+Blender 2.8 dark-mode.
 * [Screenshots](http://paulcoops.com/blender_pro-theme)
 * [Download](https://github.com/Thirioart/blender_pro-theme/archive/master.zip)
 
@@ -8,7 +8,7 @@ Dark appearance for Blender 2.8.
 * Open Blender Preferences **(Edit > Preferences)**
 * Select the **Themes tab** and click Install…
 * Select **blender_pro.xml** and click **Install Theme**
-* Make sure to **save preferences** (hamburger menu)
+* Make sure to **Save Preferences** (&#9776;)
 
 Required: [Blender 2.8](https://www.blender.org/download/)
 
