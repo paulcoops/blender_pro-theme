@@ -18,11 +18,11 @@
         gizmo_b="#a32727"
         icon_scene="#b3b3b3ff"
         icon_collection="#b3b3b3ff"
-        icon_object="#cc9753cc"
+        icon_object="#ad824ccc"
         icon_object_data="#5c8855ba"
         icon_modifier="#417193cc"
         icon_shading="#7b3838cc"
-        icon_folder="#ffd28fff"
+        icon_folder="#bf9e6bff"
         icon_border_intensity="0"
         >
         <wcol_regular>
@@ -975,9 +975,9 @@
     </node_editor>
     <outliner>
       <ThemeOutliner
-        match="#274961"
-        selected_highlight="#3a3a3a"
-        active="#4f4f4f"
+        match="#1b3746"
+        selected_highlight="#1b3746"
+        active="#274961"
         selected_object="#ffffff"
         active_object="#ffd28f"
         edited_object="#5c88558c"
