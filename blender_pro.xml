@@ -28,7 +28,7 @@
         icon_object_data="#5c8855ba"
         icon_modifier="#417193cc"
         icon_shading="#7b3838cc"
-        icon_folder="#bf9e6bff"
+        icon_folder="#957e60cc"
         icon_border_intensity="0"
         >
         <wcol_regular>
@@ -351,7 +351,7 @@
     </user_interface>
     <view_3d>
       <ThemeView3D
-        grid="#83838339"
+        grid="#83838308"
         clipping_border_3d="#202020ff"
         wire="#868686"
         wire_edit="#000000"
@@ -362,11 +362,11 @@
         object_selected="#ffffff"
         object_active="#ffd28f"
         text_keyframe="#ffd28f"
-        camera="#575757"
-        empty="#575757"
-        light="#575757ff"
-        speaker="#575757"
-        vertex="#575757"
+        camera="#957e60"
+        empty="#957e60"
+        light="#957e6057"
+        speaker="#957e60"
+        vertex="#3e3e3e"
         vertex_select="#00c5ff"
         vertex_active="#000000"
         vertex_size="4"
@@ -379,7 +379,7 @@
         edge_bevel="#007ed7"
         edge_facesel="#6b6b6b"
         freestyle_edge_mark="#0162a7"
-        face="#2d2d2d99"
+        face="#1b1b1b99"
         face_select="#00a4d499"
         face_dot="#ffffff"
         facedot_size="6"
