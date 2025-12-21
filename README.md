@@ -2,7 +2,7 @@
 
 A high-contrast, distraction-free theme designed for deep focus.
 
-- [Download](https://github.com/paulcoops/blender_pro-theme/archive/main.zip)
+- [Download for Blender 5.0+](https://github.com/paulcoops/blender_pro-theme/archive/refs/tags/5.0.zip)
 - [Installation guide](https://themes.studiocoops.com/blender_pro_theme_installation_guide)
 
 ---
